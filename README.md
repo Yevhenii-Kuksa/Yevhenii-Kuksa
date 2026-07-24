@@ -70,8 +70,13 @@ https://github.com/Yevhenii-Kuksa/ai-lead-management-system
 
 ## 📫 Contact
 
+## 📫 Contact
+
 - LinkedIn:
   https://www.linkedin.com/in/yevhenii-kuksa
+
+- Telegram:
+  https://t.me/Jeko92
 
 - GitHub:
   https://github.com/Yevhenii-Kuksa
