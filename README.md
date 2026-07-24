@@ -1,16 +1,81 @@
-## Hi there 👋
+# Hi there, I'm Yevhenii Kuksa 👋
 
-<!--
-**Yevhenii-Kuksa/Yevhenii-Kuksa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## AI Automation Engineer
 
-Here are some ideas to get you started:
+I build AI-powered workflow automation using **n8n**, **OpenAI**, **Make**, and modern APIs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My goal is to help businesses automate repetitive processes, reduce manual work, and build practical AI solutions.
+
+---
+
+## 🚀 Tech Stack
+
+- 🤖 OpenAI
+- ⚡ n8n
+- 🔗 Make
+- 📧 Gmail API
+- 📊 Google Sheets
+- 🐳 Docker
+- 🐘 PostgreSQL
+- 🌐 REST APIs
+- 💻 JavaScript
+
+---
+
+## 📂 Featured Projects
+
+### 📧 AI Email Assistant
+
+AI-powered email automation that:
+
+- Classifies incoming emails
+- Assigns Gmail labels automatically
+- Detects priority
+- Identifies required actions
+- Generates AI summaries
+- Saves structured data to Google Sheets
+
+🔗 Repository:
+https://github.com/Yevhenii-Kuksa/ai-email-assistant
+
+---
+
+### 💼 AI Lead Management System
+
+Business workflow for automatic lead processing.
+
+Features:
+
+- AI lead qualification
+- Google Forms integration
+- Google Sheets CRM
+- Email notifications
+- Workflow automation
+
+🔗 Repository:
+https://github.com/Yevhenii-Kuksa/ai-lead-management-system
+
+---
+
+## 🎯 Currently Learning
+
+- AI Agents
+- LangChain
+- CrewAI
+- Advanced n8n
+- Business Automation
+- RAG Systems
+
+---
+
+## 📫 Contact
+
+- LinkedIn:
+  https://www.linkedin.com/in/yevhenii-kuksa
+
+- GitHub:
+  https://github.com/Yevhenii-Kuksa
+
+---
+
+⭐ Always building practical AI automation projects.
