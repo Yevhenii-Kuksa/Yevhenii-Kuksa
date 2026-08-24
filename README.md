@@ -24,6 +24,23 @@ My goal is to help businesses automate repetitive processes, reduce manual work,
 
 ## 📂 Featured Projects
 
+### 🚗 Fleet Management Automation
+
+Production-style fleet management and financial automation system built for real business operations.
+
+- Telegram bot for recording income and expenses
+- Automated weekly and monthly financial reports
+- Cash management and reconciliation
+- Vehicle-level financial tracking
+- AI-powered financial analytics
+- Multi-branch n8n workflow with business logic and state management
+
+**Tech:** n8n • Telegram Bot API • Google Sheets • OpenAI • JavaScript • REST APIs
+
+🔗 [View Fleet Management Automation](https://github.com/Yevhenii-Kuksa/fleet-management-automation)
+
+---
+
 ### 📧 AI Email Assistant
 
 AI-powered email automation that:
