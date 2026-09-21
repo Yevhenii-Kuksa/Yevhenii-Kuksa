@@ -1,10 +1,10 @@
-# Hi there, I'm Yevhenii Kuksa 👋
+# Hi, I'm Yevhenii Kuksa 👋
 
-## AI Automation Engineer
+## AI Automation & Solutions Engineer
 
-I build AI-powered workflow automation using **n8n**, **OpenAI**, **Make**, and modern APIs.
+I build practical AI-powered business systems, workflow automation and integrations.
 
-My goal is to help businesses automate repetitive processes, reduce manual work, and build practical AI solutions.
+My current focus is on combining **AI, RAG, APIs, business process automation and production-oriented backend systems** to solve real operational problems.
 
 ---
 
@@ -13,12 +13,40 @@ My goal is to help businesses automate repetitive processes, reduce manual work,
 - 🤖 OpenAI
 - ⚡ n8n
 - 🔗 Make
-- 📧 Gmail API
-- 📊 Google Sheets
+- 🧠 RAG Systems
+- 🐍 Python
+- ⚙️ FastAPI
+- ⚛️ React
+- 🔷 TypeScript
 - 🐳 Docker
 - 🐘 PostgreSQL
+- 🧩 pgvector
 - 🌐 REST APIs
+- 📧 Gmail API
+- 📊 Google Sheets
 - 💻 JavaScript
+
+---
+
+## ⭐ Flagship Project
+
+### Enterprise AI Workspace
+
+Enterprise AI system with:
+
+- RAG
+- grounded AI answers
+- citation validation
+- ERP intelligence
+- human approvals
+- controlled execution
+- audit traceability
+- Docker runtime
+- 579 backend tests
+
+**Tech:** Python • FastAPI • React • TypeScript • PostgreSQL • pgvector • OpenAI API • Docker
+
+🔗 https://github.com/Yevhenii-Kuksa/enterprise-ai-workspace
 
 ---
 
@@ -52,8 +80,7 @@ AI-powered email automation that:
 - Generates AI summaries
 - Saves structured data to Google Sheets
 
-🔗 Repository:
-https://github.com/Yevhenii-Kuksa/ai-email-assistant
+🔗 https://github.com/Yevhenii-Kuksa/ai-email-assistant
 
 ---
 
@@ -61,31 +88,15 @@ https://github.com/Yevhenii-Kuksa/ai-email-assistant
 
 Business workflow for automatic lead processing.
 
-Features:
-
 - AI lead qualification
 - Google Forms integration
 - Google Sheets CRM
 - Email notifications
 - Workflow automation
 
-🔗 Repository:
-https://github.com/Yevhenii-Kuksa/ai-lead-management-system
+🔗 https://github.com/Yevhenii-Kuksa/ai-lead-management-system
 
 ---
-
-## 🎯 Currently Learning
-
-- AI Agents
-- LangChain
-- CrewAI
-- Advanced n8n
-- Business Automation
-- RAG Systems
-
----
-
-## 📫 Contact
 
 ## 📫 Contact
 
@@ -100,4 +111,4 @@ https://github.com/Yevhenii-Kuksa/ai-lead-management-system
 
 ---
 
-⭐ Always building practical AI automation projects.
+⭐ Building practical AI automation and business systems.
